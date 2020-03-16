@@ -1,0 +1,5 @@
+math
+bin
+.vs
+.settings
+stlink.mk
